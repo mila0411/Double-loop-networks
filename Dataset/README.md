@@ -1,8 +1,9 @@
 ENG:
-Double Loop Networks or Circulant topologies (N;1,S) with different nodes : 
-resXt-2.csv with X  thousands of nodes (X = 1 - 50)
+
+Optimal Double Loop Networks or Circulant topologies (N;1,S) with minimum diameter for different nodes : 
+resXt-2.csv with X thousands of nodes (X = 1 - 50)
 
 CSV files format:
-nodes count N; Low bound of Diameter; Diameter; generator s
+nodes count N; Low bound of Diameter; Diameter; optimal generator s
 
  N; Dlim; diam; s1opts
