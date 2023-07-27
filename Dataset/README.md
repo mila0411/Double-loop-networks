@@ -7,3 +7,13 @@ CSV files format:
 nodes count (order of graph) N; Exact lower bound of diameter Dlim; Diameter diam; optimal generator s <= N/2 - s1opts
 
  N; Dlim; diam; s1opts
+
+ About:
+
+Additional information about the dataset is presented in the article:
+
+Generation and Analysis of Optimal Double-Loop Circulant Networks Dataset
+
+by Emilia A. Monakhova and Oleg G. Monakhov 
+
+
