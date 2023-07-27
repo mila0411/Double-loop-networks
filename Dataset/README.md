@@ -16,4 +16,4 @@ Generation and Analysis of Optimal Double-Loop Circulant Networks Dataset
 
 by Emilia A. Monakhova and Oleg G. Monakhov 
 
-(submitted to conference sibDATA 2023, 18.07.2023)
+(submitted to conference SibDATA-2023, 18.07.2023)
