@@ -1,21 +1,21 @@
 ENG:
 
-Optimal Double Loop Networks or Circulant topologies (N;1,S) with minimum diameter for different nodes : 
-resXt-2.csv with X thousands of nodes (X = 1 - 50)
+The datasets are lists of Optimal Double Loop Networks or Circulant topologies of the form C(N;1,s) with the minimum diameter for different number of nodes : 
+where file resXt-2.csv is a list of graphs with X thousands of nodes (X = 1 - 50)
 
 CSV files format:
 
- N; Dlim; diam; s1opts
+ N; lb; diam; s
 
  where:
 
-N - nodes count (order of graph) N;
+N - number of nodes (order of a graph);
 
-Dlim - Exact lower bound of diameter; 
+lb - exact lower bound of diameter; 
 
-diam - optimal Diameter;
+diam - optimal (minimal) diameter of a graph;
 
-s1opts - optimal generator s <= N/2
+s - optimal generator (2 <= s <= N/2)
 
  About:
 
