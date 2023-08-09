@@ -19,7 +19,11 @@ s - optimal generator (2 <= s <= N/2)
 
  About:
 
-Additional information about the dataset is presented in the article:
+Additional information about the dataset is presented in the following article.
+
+Reference
+
+When you write a paper using this library, please refer to the paper.
 
 Generation and Analysis of Optimal Double-Loop Circulant Networks Dataset
 
