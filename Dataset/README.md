@@ -23,7 +23,7 @@ Additional information about the dataset is presented in the following article.
 
 Reference
 
-When you write a paper using this library, please refer to the paper.
+When you write a paper using this dataset, please refer to the paper.
 
 Generation and Analysis of Optimal Double-Loop Circulant Networks Dataset
 
