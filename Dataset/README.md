@@ -25,8 +25,8 @@ Reference
 
 When you write a paper using this dataset, please refer to the paper.
 
-Generation and Analysis of Optimal Double-Loop Circulant Networks Dataset
+Generation and Analysis of Optimal Double-Loop Circulant Networks
 
 by Emilia A. Monakhova and Oleg G. Monakhov 
+(in press)
 
-(submitted to conference SibDATA-2023, 18.07.2023)
