@@ -36,14 +36,15 @@ CSV files format:
 
  About:
 
-Additional information about the dataset is presented in the following article.
+Additional information about the dataset is presented in the following articles. When you write a paper using this dataset, please refer to:
 
 Reference
 
-When you write a paper using this dataset, please refer to the paper.
+1.  Certificate of state registration of the database 2025622319 Russian Federation. Database of optimal circulant networks of degree four with unit generator: N 2025622319: declared 28.05.2025: published 28.05.2025 / O. G. Monakhov, E. A. Monakhova; applicant and copyright holder ICM&MG SB RAS. - 1 p.
 
-Generation and Analysis of Optimal Double-Loop Circulant Networks
+2.  Э.А. Монахова, О.Г. Монахов. Анализ базы данных оптимальных двухконтурных кольцевых сетей // «Прикладная дискретная математика», № 64, 2024, с. 56-71. https://doi.org/10.17223/20710410/64/5 
 
-by Emilia A. Monakhova and Oleg G. Monakhov 
-(in press)
+ 3. Э.А. Монахова, О.Г. Монахов. Генерация и анализ датасета оптимальных двухконтурных циркулянтных сетей // «Программная инженерия», Т. 15, № 8, 2024, С. 402-410. DOI: 10.17587/prin.15.402-410 
+
+
 
