@@ -1,4 +1,7 @@
 ENG:
+0. The datasets in files circ-all-11-50K-optnsd.csv and circ-all-50K-150K-optnsd.csv are lists of Optimal Double Loop Networks or Circulant topologies of the form C(N;1,s) with the minimum diameter (only for diam = lb - exact lower bound of diameter) for different number of nodes : where file circ-all-50K-150K-optnsd.csv is a list of graphs with 50 - 150 thousands of nodes. CSV files format: (N; diam; s) where:
+N - number of nodes (order of a graph); diam - optimal (minimal) diameter of a graph;
+s - optimal generator (2 <= s <= N/2).
 
 1. The datasets in files resXt-2.csv are lists of Optimal Double Loop Networks or Circulant topologies of the form C(N;1,s) with the minimum diameter for different number of nodes : 
 where file resXt-2.csv is a list of graphs with X thousands of nodes (X = 1 - 50)
